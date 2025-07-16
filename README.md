@@ -12,4 +12,5 @@ That's why we're excited to introduce our innovative project - MindMate, an AI-p
 It is not just a chatbot - it is a supportive friend It offers a safe and non-judgmental space for individuals to express their feelings and thoughts. 
 It actively listens, understands, and provides motivation and encouragement to help people face their challenges with courage.<br />
 It is like your own baymax - but without the body. It is still able to provide you with warmth nonetheless!
+(Made for Tinkerhub first GENAI Hackathon in Kerala in 2023)
 
